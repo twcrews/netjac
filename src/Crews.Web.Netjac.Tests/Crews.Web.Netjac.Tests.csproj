@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Using Include="Xunit" />
+    <ProjectReference Include="..\Crews.Web.Netjac\Crews.Web.Netjac.csproj" />
   </ItemGroup>
 
 </Project>

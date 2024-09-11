@@ -4,8 +4,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-dotnettools.vscodeintellicode-csharp",
-				"k--kato.docomment"
+				"ms-dotnettools.vscodeintellicode-csharp"
 			]
 		}
 	}

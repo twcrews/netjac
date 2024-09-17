@@ -1,3 +1,4 @@
 {
-	"dotnet.defaultSolution": "Crews.Web.Netjac.sln"
+	"dotnet.defaultSolution": "Crews.Web.Netjac.sln",
+	"dotnet.unitTests.runSettingsPath": "src/Crews.Web.Netjac.Tests/.runsettings"
 }
